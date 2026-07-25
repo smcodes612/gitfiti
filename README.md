@@ -118,3 +118,4 @@ gitfiti is released under [The MIT license (MIT)](http://opensource.org/licenses
 - [contribution-pixel-messages](https://github.com/abulvenz/contribution-pixel-messages) generates a date plan from an editable GUI
 - Seen something else? Submit a pull request or open an issue!
 # gitfiti
+# gitfiti
